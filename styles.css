@@ -15,7 +15,20 @@ h1 {
 	min-width:75%;
 }
 .menuBar {
-	float:left;
+	background-color:#1db954;
+	word-spacing:100px;
+	padding-top:20px;
+	min-height:50px;
 	text-align:center;
 }
 
+a {
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#212121;
+	border-block:solid;
+	border-block-width:5px;
+	border
+	border-block-color:#212121;
+	
+}
