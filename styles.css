@@ -1,12 +1,11 @@
 body {
 	background-color: #121212;
+	color: white;
 }
 h1 {
-	color: white;
 	font-size: 16px;
 }
 .sections {
-	color: white;
 	border:none;
 	margin: 20px auto;
 	text-align: center;
