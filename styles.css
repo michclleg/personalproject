@@ -7,9 +7,12 @@ h1 {
 }
 p {
 	color: white;
+	margin: 20px auto;
+	text-align: center;
 	background-color:#212121;
 	min-height:25%;
 	max-height:50%;
 	min-width:75%;
 	
 }
+
